@@ -8,6 +8,7 @@ public class CountCharactersInString {
 
         System.out.println(count);
         System.out.println(count2);
+        System.out.println(count2);
     }
 
     private static long getCountOfChar(char ch, String s) {
